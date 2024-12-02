@@ -1,0 +1,48 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffb92b;
+}
+.nav-container {
+    background-color: #ffb92b;
+}
+/* Header styles */
+.header {
+    background: linear-gradient(45deg, #f8f9fa, #e9ecef);
+    padding: 50px 20px;
+    color: #333;
+}
+
+/* Banner image */
+#input-container{
+    background-color: #ffb92b;
+}
+.banner {
+    width: 100%;
+    height: 420px;
+}
+.banner img {
+    width: 100%;
+    height: 100%;
+    /* margin-bottom: 20px; */
+}
+
+/* Rounded input field */
+.rounded-input {
+    border-radius: 50px;
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+}
+
+/* Footer styles */
+.footer {
+    background-color: #ffb92b;
+    height: 100%;
+    /* border-top: 1px solid #ffb92b; */
+}
+
+/* Button styles */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
